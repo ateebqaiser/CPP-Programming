@@ -25,6 +25,3 @@ To run these programs, you need:
    - Press **F11** (or click on *Execute → Compile & Run*).  
    - The output will appear in the console window.
 
-
-## 📂 Project Structure
-
