@@ -8,7 +8,7 @@ main()
 	cout<<"Hello Ateeb"<<endl;
 	cout<<"Value of a : "<<a<<endl;
 	
-//	For output use cin :
+//	For input use cin :
 	cout<<"Enter value of b : ";
 	cin>>b;
 	cout<<"Value of b : "<<b;
